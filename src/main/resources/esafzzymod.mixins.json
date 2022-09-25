@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "package": "com.esportsarena.esafzzymod.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "mixins": []
+}
